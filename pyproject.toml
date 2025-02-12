@@ -16,6 +16,6 @@ requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-get-papers-list = "pubmed_cli:main"
+get-papers-list = "pubmed_cli.pubmed_cli:main"
 
 
