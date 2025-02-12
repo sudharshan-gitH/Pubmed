@@ -1,1 +1,1 @@
-# Pubmed
+# PubMed CLI Tool
